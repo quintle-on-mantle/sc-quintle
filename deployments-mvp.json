@@ -1,10 +1,10 @@
 {
-  "chainId": 84532,
-  "network": "Base Sepolia",
-  "timestamp": "2026-01-10T18:02:54.815Z",
+  "chainId": 421614,
+  "network": "Arbitrum Sepolia",
+  "timestamp": "2026-01-11T09:06:58.013Z",
   "contracts": {
-    "Quinty": "0xA7b8202E50814DC6D54af891F90995947a3a3d29",
-    "QuintyReputation": "0xad91D6E288aB5463fe722E94e587111556a455eA",
-    "QuintyNFT": "0x15Dd08664fC28BD87C16F4481a96d3CC56f5B6D0"
+    "Quinty": "0xd2AC810cFDCC68B6297a34b9754E4FF0335FE4af",
+    "QuintyReputation": "0x4D3ACbAFCd1fc9BaCF1aaFEbb903B85552a2a0fb",
+    "QuintyNFT": "0xBe17D9c0221b51E02ba0a131CB417D301724853a"
   }
 }
